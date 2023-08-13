@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Sample",
+        "path": "./data/sample.wxf"
+    },
+    {
+        "name": "QTB.Tiên.C1.1",
+        "path": "./data/Quat-Trung-Bi/Dac-Tien/1.wxf"
+    }
+]
