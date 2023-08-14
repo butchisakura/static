@@ -4,7 +4,11 @@
         "path": "./data/sample.wxf"
     },
     {
+        "name": "QTB.Tiên.C1.0",
+        "path": "./data/Quat-Trung-Bi/Dac-Tien/1.0.wxf"
+    },
+    {
         "name": "QTB.Tiên.C1.1",
-        "path": "./data/Quat-Trung-Bi/Dac-Tien/1.wxf"
+        "path": "./data/Quat-Trung-Bi/Dac-Tien/1.1.wxf"
     }
 ]
