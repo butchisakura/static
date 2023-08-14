@@ -1,6 +1,5 @@
 # Quất Trung Bí - Đắc Tiên - Chương 1 - Cục 1
 # Thuận Pháo - Hoành Xa - Phá Trực Xa - Khí Mã Cục
-# bug 14
 FORMAT  WXF
 RED     RedPlayer ; 1000 ;;
 BLACK   BlackPlayer ; 1000 ;;
@@ -21,7 +20,7 @@ START{
     11. +R6-1 c5.6
     12. C8.5 k6-1
     13. -C5.4 c6.8
-    14. +R6.5 b3+5
+    14. +R6.5 e3+5
     15. R6.4 c2-7
     16. C4+1
 }END
